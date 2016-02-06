@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Absolute Positioning</title>
+		<style type="text/css">
+			body {
+				width: 750px;
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;}
+			h1 {
+				position: absolute;
+				top: 0px;
+				left: 500px;
+				width: 250px;}
+			p {
+				width: 450px;}
+			h2 {position: absolute;
+				top: 0px;
+				left: 500px;
+				width: 250px;}
+				h3 {position: absolute;
+				top: 0px;
+				left: 500px;
+				width: 250px;}
+
+		</style>
+	</head>
+	<body>
+		<h1>Queens Museum Gets Huge Help From New Grant</h1>
+		<h2> Kings Manor Museum in Jamaica Recieves $10,000 From Councilman Rory Lancman</h2>
+			<h3> By Kelly Caputo </h3>
+			<img src="CaputoMuseum01.jpg" alt="Mountain View" style="width:304px;height:228px;">
+			<h4> Kings Manor Museum is located in Jamaica, Queens at Rufus King Park</h4>
+		<p>Councilman Rory Lancman is determined to help Queens residents explore their rich local history, as he recently provided $10,000 in funding to Jamaica’s King Manor Museum. </p>
+		<p>“King Manor provides Queens residents with an incredible opportunity to learn about the founding father who once lived right down the street from their homes,” said Councilman Lancman in a statement. “I’m excited to provide funding that will ensure the Manor’s important programs reach more people.” </p>
+		<p>The museum, which is located at Rufus King Park on Jamaica Avenue, was founded in 1900, and serves to educate both children and adults on their local history, especially the involvement of Rufus King and his family in the anti-slavery movement. King and his sons, according to the museum website, were crucial figures in the progression from using slave labor to figures in the progression from using slave labor to employing free workers. 
+<p> The funding, King Manor Museum Executive Director Nadezhda Williams said, will be a great help to the museum, which is the only historic house in Southeast Queens. 
+</p>
+		<p>	“That money is going towards our programming, so that includes our school programs,” Williams said. “Last year we had over 5,000 school children visit with our classes, so we are looking for at least that much this year.”</p>
+		<p>Williams hopes that this extra funding will draw in more curious Jamaica residents.</p>
+		<p>“We’re always looking to welcome more people, especially with the events like the Craftsmen Day Festival and the Fall Festival,” Williams said. “That’s a really great chance to bring people in who say, ‘oh, I always look at the house when I walk by but never come in’.” </p>
+		<p>And, Williams said, there’s no such thing as too many visitors.
+	“The more the merrier!” Williams said. 
+</p>
+	</body>
+</html>
